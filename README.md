@@ -66,4 +66,4 @@ Below is a list of things Text Cleaner can do.
 * Convert common shorthand to full words
 
 ## Find and Replace
-Allows you to create your very own "find and replace" list. It works with single or multiple replace operations.
+Allows you to create your very own "find and replace" list.
