@@ -14,3 +14,51 @@
 * Convert multiple spaces to single space
 * Convert multiple black or empty lines with single line
 * Remove all line breaks
+
+#### Characters
+* Remove punctuation marks
+* Strip all emojis
+* Remove letter accents (diacritics)
+* Normalize unicode letters/characters
+* Remove replacement character
+* Remove non-ASCII characters
+* Remove non-alphanumeric characters
+
+#### Other
+* Strip all e-mails
+* Remove BBCode tags (Forum)
+
+#### HTML
+* Unescape HTML tags
+* Strip all HTML tags
+* Remove all ids
+* Remove all classes
+* Remove inline styles
+* Decode HTML Character Entities
+* Decode URL-encoded characters
+
+#### Links
+* Remove all web urls
+* Convert urls to links
+
+#### Letter case
+* Uppercase
+* Lowercase
+* Sentence case
+* Capitalize each word
+
+#### Quotes
+* Smart quotes to regular
+* Regular quotes to smart
+
+#### Duplicates
+* Remove duplicate lines/paragraphs
+* Remove repeating words
+
+#### Trim characters
+* Remove a specific amount of characters from the left side
+* Remove a specific amount of characters from the right side
+
+#### Writing
+* Fix spaces after each punctuation mark
+* Convert common shorthand to full words
