@@ -5,3 +5,12 @@
 ## Options
 #### Whitespace
 * Trim
+* Remove leading spaces
+* Remove trailing spaces
+* Replace a consecutive amount of space with 1 tab
+* Replace 1 tab with a single or multiple spaces
+* Remove blank or empty lines
+* Replace line break with space
+* Convert multiple spaces to single space
+* Convert multiple black or empty lines with single line
+* Remove all line breaks
